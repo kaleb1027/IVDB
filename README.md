@@ -11,6 +11,8 @@
   * Welcome to IVDB! With this app, you can search through a database of videogames via the RAWG API and add your favorite games to your own gamelist. This website is full stack MERN application. Try it out!
   ![image](./assets/01.PNG)
   
+  https://obscure-mesa-27325.herokuapp.com/
+  
   ## Installation Instructions
   * In order to install and use this program locally, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Afterwards, type "npm start" into the prompt to begin the program. 
   
