@@ -9,7 +9,7 @@
   
   ## Description
   * Welcome to IVDB! With this app, you can search through a database of videogames via the RAWG API and add your favorite games to your own gamelist. This website is full stack MERN application. Try it out!
-  ![image](./assets/01.PNG)
+  ![obscure-mesa-27325 herokuapp com_](https://user-images.githubusercontent.com/88510725/170747945-45e082cf-9841-4a21-a703-60af9d27bc29.png)
   
   https://obscure-mesa-27325.herokuapp.com/
   
@@ -28,3 +28,4 @@
   * Augustus Madden (github: AugustusMadden)
   * Kaleb S. (github: kaleb1027)
   * Owen Foreman (github: owenforeman1)
+
